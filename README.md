@@ -18,7 +18,7 @@ I used it for useFetcher hook. Now I used useFetcher hook for fetching popular j
 <img src="https://github.com/Jatan88/JobSpot/blob/main/demopics/pic6.jpeg" width=200>
 <img src="https://github.com/Jatan88/JobSpot/blob/main/demopics/pic5.jpeg" width=200>
 </p>
-
+<!-- nice one -->
 # Demo Video
 
 
